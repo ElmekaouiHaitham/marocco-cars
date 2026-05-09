@@ -1,0 +1,41 @@
+{
+  "model": "Dacia Logan",
+  "total_scraped": 37,
+  "valid_for_baseline": 32,
+  "average_price_mad": 141188,
+  "median_price_mad": 143000,
+  "price_std_dev": 19809,
+  "price_25th_percentile": 128000,
+  "price_75th_percentile": 155000,
+  "average_mileage_km": 73276,
+  "median_mileage_km": 51200,
+  "by_year": {
+    "2025": {
+      "avg_price": 91983,
+      "avg_mileage": 30900,
+      "count": 6
+    },
+    "2024": {
+      "avg_price": 126500,
+      "avg_mileage": 52414,
+      "count": 10
+    },
+    "2023": {
+      "avg_price": 145500,
+      "avg_mileage": 80563,
+      "count": 4
+    },
+    "2022": {
+      "avg_price": 131786,
+      "avg_mileage": 98042,
+      "count": 14
+    },
+    "2026": {
+      "avg_price": 340667,
+      "avg_mileage": 102283,
+      "count": 3
+    }
+  },
+  "expected_price_per_year": 52220,
+  "expected_price_per_10k_km": -1800
+}
